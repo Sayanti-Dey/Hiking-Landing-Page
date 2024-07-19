@@ -18,10 +18,6 @@ A visually appealing and responsive landing page for a hiking website, built usi
 
 
 
-## Usage
-
-Feel free to use this project as a template for your own landing pages. Customize the content, styles, and scripts to fit your needs.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue to discuss them.
